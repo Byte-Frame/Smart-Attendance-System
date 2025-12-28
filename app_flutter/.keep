@@ -1,0 +1,4 @@
+only push,
+ - lib/
+ - assets/
+ - pubspec.yaml
