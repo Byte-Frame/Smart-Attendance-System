@@ -1,4 +1,7 @@
+
 only push,
  - lib/
  - assets/
  - pubspec.yaml
+
+Note: Only a place holder file
